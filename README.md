@@ -30,3 +30,7 @@ Unplanned readmissions are costly, preventable events that signal gaps in care c
 ### Skills:
 SQL: CTEs, Joins, Case
 Power Query: Dax, writing functions, ETL, calculated columns 
+
+### Results & Business Recommendations:
+
+### Next Steps:
