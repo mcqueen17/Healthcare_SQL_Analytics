@@ -28,5 +28,14 @@ This repository contains SQL-based healthcare analytics case studies focused on 
 ## Related Projects
 - [Healthcare-EDA](https://github.com/mcqueen17/Healthcare-EDA): Python-based exploratory analysis of hospital readmissions and quality metrics.
 
+## Analytical Continuity
+
+This SQL repository complements the Python-based exploratory analysis in the
+[Healthcare-EDA](https://github.com/mcqueen17/Healthcare-EDA) project.
+
+- SQL queries are used to engineer readmission flags and calculate quality metrics
+- Python is used for exploratory analysis, visualization, and trend interpretation
+- Both projects apply consistent logic to 7-day and 30-day readmission measures
+
 ## Notes
 These queries are written using synthetic healthcare datasets for demonstration purposes and reflect patterns commonly analyzed in healthcare analytics and quality improvement teams.
