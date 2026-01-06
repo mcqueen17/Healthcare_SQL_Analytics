@@ -18,6 +18,16 @@ This repository contains SQL-based healthcare analytics case studies focused on 
 
 ## Repository Structure
 
+### SQL Case Studies (`/sql`)
+- `readmissions_analysis.sql` — Builds 7-day and 30-day readmission flags, calculates overall readmission rates, and ranks conditions by 30-day readmission rate.
+- `utilization_metrics.sql` — Core utilization metrics including encounter volume, monthly trends, high-cost encounters, and LOS outliers.
+- `payer_mix_analysis.sql` — Payer mix share of total volume, LOS and billing comparisons by payer, high-cost volume by payer, and monthly admissions by payer.
+- `high_utilizers.sql` — Identifies high-utilizer patients (frequent encounters) and patients with multiple readmissions.
+- `length_of_stay.sql` — LOS summary statistics, LOS by payer, LOS outliers, and monthly LOS trends.
+
+### Documentation
+- `README.md` — Project overview and business questions addressed
+
 ## Example Business Questions Answered
 - What percentage of discharges result in a 30-day readmission?
 - Which primary medical conditions have the highest readmission rates?
